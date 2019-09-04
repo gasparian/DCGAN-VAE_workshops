@@ -1,4 +1,4 @@
-# [DCGAN]() and [VAE]() in keras  
+# [DCGAN](https://arxiv.org/pdf/1511.06434.pdf) and [VAE](https://becominghuman.ai/variational-autoencoders-for-new-fruits-with-keras-and-pytorch-6d0cfc4eeabd) in keras  
 This is my early experiments with generative models understanding.  
 All done in "keras-crappy-notebooks" style ;)  
 
