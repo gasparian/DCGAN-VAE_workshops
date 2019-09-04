@@ -1,0 +1,6 @@
+numpy
+tensorflow-cpu
+keras
+Pillow
+matplotlib
+imageio
